@@ -1,0 +1,29 @@
+{
+  "name": "hexlet-test",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Тестирование JS",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sora0023/hexlet-jest.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sora0023/hexlet-jest/issues"
+  },
+  "homepage": "https://github.com/Sora0023/hexlet-jest#readme",
+  "devDependencies": {
+    "@stylistic/eslint-plugin": "^5.6.1",
+    "eslint": "^9.39.2",
+    "jest": "^30.2.0"
+  }
+}
